@@ -10,7 +10,7 @@ Cardiovascular diseases (CVDs) are a leading cause of death worldwide. This proj
 
 The final report presents our **heart disease prediction pipeline using the BRFSS dataset**, including data preprocessing, class imbalance handling, and regularized logistic regression models implemented from scratch and tuned with 5-fold cross-validation.
 
-📄 **[Read the full project report](docs/final_report.pdf)**
+📄 **[Read the full project report](Disease_prediction_report.pdf)**
 
 ## Table of Contents 📋
 
