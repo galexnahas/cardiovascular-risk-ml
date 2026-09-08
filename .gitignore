@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac specific
+.DS_Store
+*.DS_Store
+
+# Dataset
+data/
+dataset/
+
+# UV Environment 
+.venv/
+
+# Plots
+Plots/
+plots/
